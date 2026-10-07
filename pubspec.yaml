@@ -64,6 +64,14 @@ flutter:
   assets:
     - assets/images/academia_fundo.jpg
 
+# Ícone do app (gerar com: dart run flutter_launcher_icons)
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+  adaptive_icon_background: "#0F0F14"
+  adaptive_icon_foreground: "assets/icon/icon_foreground.png"
+  remove_alpha_ios: true
 
   # To add assets to your application, add an assets section, like this:
   # assets:
