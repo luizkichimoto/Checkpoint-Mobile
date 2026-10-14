@@ -6,7 +6,7 @@ Na versão 2.0 (Checkpoint 02) o app deixa de ser apenas um contador e passa a r
 
 ## Vídeo de demonstração
 
-▶️ **[Assistir ao vídeo](COLE_AQUI_O_LINK_DO_VIDEO)**
+▶️ **[Assistir ao vídeo](https://youtube.com/shorts/sseD_QBAkJI?feature=share)**
 
 ## Ambiente escolhido
 
